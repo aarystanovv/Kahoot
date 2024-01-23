@@ -1,0 +1,36 @@
+It controls the behavior of a program
+method
+class
+object
+void
+What is at the end of a line of code?
+;
+>
+?
+)
+A variable that holds a number
+int
+string
+char
+boolean
+A data type that deals with logical values
+boolean
+int
+String
+char
+Why we need to delete unused variables:
+to make algorithm neater
+to make algorithm faster
+to save memory
+just for fun
+Next
+A default value of the int:
+0
+Keyword that creates the object:
+new
+Int a = 5, a > 3 (true/false)?
+true
+Is Python a programming language(yes/no)?
+yes
+Is Java similar to C++(yes/no)?
+yes
